@@ -1,0 +1,18 @@
+/* make the customizations */
+$theme-colors: (
+	'info': #1C8748
+);
+
+$white: #eeefee;
+$medGrey: #7e8077;
+$yelloowGreen: #c6df6b;
+$euca: #1c8748;
+$sushi: #9abb43;
+$tumeric: #cbd143;
+$earls: #bbb93f;
+$sycamore: #96983b;
+
+/* import bootstrap to set changes */
+@import '~bootstrap/scss/bootstrap';
+
+@import '../node_modules/bootstrap/scss/bootstrap';

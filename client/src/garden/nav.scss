@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+  $white: #EEEFEE;
+  $medGrey: #7E8077;
+  $yelloowGreen: #C6DF6B;
+  $euca: #1C8748;
+  $sushi: #9ABB43;
+  $tumeric: #CBD143;
+  $earls: #BBB93F;
+  $sycamore: #96983B;
+
+  .navbar {
+	box-shadow: 7px 5px 15px 0px rgba(0, 0, 0, 0.1);
+  height: 145px;
+  background-color: $white;
+  width: 100%;
+  margin: 0 auto;
+}
+
